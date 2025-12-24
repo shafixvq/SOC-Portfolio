@@ -7,11 +7,16 @@ This repository contains my hands-on SOC projects demonstrating:
 - SIEM analysis
 - Threat hunting
 
-## Projects
-- SOC Incident Triage (Brute Force Attack)
-- SIEM Log Monitoring & Alert Correlation
-- Threat Hunting Mini Project
-- Final Year Project: Secure Encryption Platform
+## SOC Projects
 
-Tools used include SIEM platforms, Windows/Linux logs, and cybersecurity frameworks such as MITRE ATT&CK.
+### 1. SOC Incident Triage – Brute Force Login Attack
+Repository: https://github.com/shafixvq/SOC-Incident-Triage-Bruteforce
+
+- Performed L1 SOC alert triage and investigation
+- Analysed authentication logs and identified attack patterns
+- Mapped incident to MITRE ATT&CK (T1110)
+- Determined incident severity and escalation requirement
+
+More projects will be added to demonstrate SIEM monitoring and threat hunting.
+
 
